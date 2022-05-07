@@ -54,3 +54,17 @@ Well [here is a list of awesome open source sysadmin resources that you can once
 If you've started selfhosting, you may naturally turn to installing applications directly onto the host. However, I think you'll find that occasionally you'll run into issues when multiple applications have conflicting dependencies or it'll get annoying separating your apps across multiple VMs to avoid these issues. 
 
 A lot of the applications from the selfhosting repo have instructions for installing them within Docker. I urge you to explore that option, and [watch this video that explains the difference between both architectures](https://www.youtube.com/watch?v=XCWWPpfdbsM) better than I. 
+
+---
+
+## First App?
+
+I recommend everyone start with [littlelink](https://github.com/sethcottle/littlelink) for their first deployment. If you follow that link it'll take you to their Github repo, and there's a one click deploy button from there. You'll have to sign up for Github, but trust me you'll wanna do that anyway. 
+littlelink is essentially a git controlled dashboard that you can use to link to your other websites. It'll be hosted by Vercel for free as it falls under 'non-commercial & hobby sites' and they handle a lot behind the scenes to make it easier to learn this stuff little by little. This dashboard will be great to have once you've got other hosted projects, as it makes for the perfect landing page that you can link to on your resume to show employers or friends the projects you've been working on.
+
+----
+
+## Git
+
+Don't think you can skip this section, I know you've got a Github account now if you followed the section above. [Watch this 20 minute video explaining Git, Github, and Github Desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE) (Simplified Git).
+Trust me, git repositories work perfectly with a lot of automation tools that will be covered later on. 
