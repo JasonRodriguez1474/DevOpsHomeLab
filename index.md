@@ -2,11 +2,9 @@
 
 For starters, a homelab is a 'playground' for IT professionals, developers, and just about anyone to grow their technical skills in a non production environment. My primary background is that of a DevOps engineer, with a heavy emphasis on the Operations side of things.
 
-Why should you build out a homelab?
-Because it's fun!
-No?
-Because it is going to hone your skills and make you more competitive in today's market. Always remember, your competition is people like me, and **I don't lose**. You don't have to learn everything that's covered in this guide, or everything covered in the [incredible roadmap found here](https://roadmap.sh/devops). However, even a little bit of additional training goes a long way! 
+You don't have to learn everything that's covered in this guide, or everything covered in the [incredible roadmap found here](https://roadmap.sh/devops). However, even a little bit of additional training goes a long way! 
 
+---
 ## Cloud
 
 The 'cloud' is one of the biggest buzzwords in tech at the moment and you would do well to dip your toes into it! Luckily, this is one of the easiest and cheapest things to learn at the moment thanks to how heavily some companies are pushing their cloud infrastructures.
@@ -25,6 +23,7 @@ Last I checked, they don't even hold 5% of the overall Cloud Market share, and t
 
 They've also got a bunch of [free learning resources that can checked out here](https://education.oracle.com/learning-explorer#startLearning). However, I'm not entirely sure how strong their certifications are in the market at this time. You'll come to realize soon though, that despite naming their services a little bit differently than AWS, the core concept behind the both is the same, and so they'll both benefit you greatly.
 
+---
 
 ```markdown
 Syntax highlighted code block
