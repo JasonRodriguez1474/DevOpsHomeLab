@@ -5,7 +5,7 @@ For starters, a homelab is a 'playground' for IT professionals, developers, and 
 Why should you build out a homelab?
 Because it's fun!
 No?
-Because it is going to hone your skills and make you more competitive in today's market. Always remember, your competition is people like me, and **I don't lose**. 
+Because it is going to hone your skills and make you more competitive in today's market. Always remember, your competition is people like me, and **I don't lose**. You don't have to learn everything that's covered in this guide, or everything covered in the [incredible roadmap found here](https://roadmap.sh/devops). However, even a little bit of additional training goes a long way! 
 
 ### Markdown
 
