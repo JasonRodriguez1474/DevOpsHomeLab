@@ -1,6 +1,11 @@
 ## Welcome to the DevOps Homelab Setup Guide
 
-For starters, a homelab is a 'playground' for IT professionals, developers, and just about anyone to grow their technical skills in a non production environment.
+For starters, a homelab is a 'playground' for IT professionals, developers, and just about anyone to grow their technical skills in a non production environment. My primary background is that of a DevOps engineer, with a heavy emphasis on the Operations side of things.
+
+Why should you build out a homelab?
+Because it's fun!
+No?
+Because it is going to hone your skills and make you more competitive in today's market. Always remember, your competition is people like me, and **I don't lose**. 
 
 ### Markdown
 
