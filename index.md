@@ -19,8 +19,12 @@ Luckily, they provide 100% free training for their entry level certification 'AW
 
 For actually training your skills, [these are all the services you can deploy for free within AWS](https://aws.amazon.com/free/). However, I personally find their offerings rather weak as at most you're getting 1 reliably free VM for playing around. 
 
-
 ### Oracle Cloud
+
+Last I checked, they don't even hold 5% of the overall Cloud Market share, and that's exactly why they're perfect for homelabs! You get around 6x the compute with the [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) than you would with AWS. For your first 30 days, you also get $300 in free credits to explore services that aren't covered in the free tier and this could be your chance to learn your way around Kubernetes at no cost to you!
+
+They've also got a bunch of [free learning resources that can checked out here](https://education.oracle.com/learning-explorer#startLearning). However, I'm not entirely sure how strong their certifications are in the market at this time. You'll come to realize soon though, that despite naming their services a little bit differently than AWS, the core concept behind the both is the same, and so they'll both benefit you greatly.
+
 
 ```markdown
 Syntax highlighted code block
