@@ -43,16 +43,14 @@ So you've got multiple servers all hosted within the cloud at this point with pu
 Start selfhosting applications of course!
 This will teach you more about how websites or applications work on the backend which in production environments is what we are dedicated to supporting. 
 
-[This just happens to be a link to a wonderful Github repo that has listed out various  network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted).
+[This just happens to be a link to a wonderful Github repo that has listed out various network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted).
 More interested in the SysAdmin side of things? Wondering how companies host their own VPN servers?
 Well [here is a list of awesome open source sysadmin resources that you can once again host on your servers](https://github.com/kahun/awesome-sysadmin).
 
 ---
 
-### Jekyll Themes
+## Bare Metal vs Containerized Applications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JasonRodriguez1474/DevOpsHomeLab/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you've started selfhosting, you may naturally turn to installing applications directly onto the host. However, I think you'll find that occasionally you'll run into issues when multiple applications have conflicting dependencies or it'll get annoying separating your apps across multiple VMs to avoid these issues. 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A lot of the applications from the selfhosting repo have instructions for installing them within Docker. I urge you to explore that option, and [watch this video that explains the difference between both architectures](https://www.youtube.com/watch?v=XCWWPpfdbsM) better than I. 
