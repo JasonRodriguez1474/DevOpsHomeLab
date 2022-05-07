@@ -72,6 +72,12 @@ Trust me, git repositories work perfectly with a lot of automation tools that wi
 
 ---
 
+## YAML
+
+YAML is the language used by multiple Infrastructure as Code tools, so [here is a video covering its structure](https://www.youtube.com/watch?v=1uFVr15xDGg). [This is a guide from Google on what Infrastructure as code, and it includes an example of a basic configuration file that is utilizing YAML](https://www.youtube.com/watch?v=z-caqPtEw58).
+
+---
+
 ## Terraform
 
 You should definitely learn to build, change, and destroy infrastructure with Terraform. If you've experimented with bringing up virtual machines, you'll quickly realize how tedious the whole process can be, not to mention having to bring up a virtual network for your VM to live in.
