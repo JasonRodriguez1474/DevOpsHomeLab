@@ -63,9 +63,23 @@ I recommend everyone start with [littlelink](https://github.com/sethcottle/littl
 
 Littlelink is essentially a git controlled dashboard that you can use to link to your other websites. It'll be hosted by Vercel for free as it falls under 'non-commercial & hobby sites' and they handle a lot behind the scenes to make it easier to learn this stuff little by little. This dashboard will be great to have once you've got other hosted projects, as it makes for the perfect landing page that you can link to on your resume to show employers or friends the projects you've been working on.
 
-----
+---
 
 ## Git
 
 Don't think you can skip this section, I know you've got a Github account now if you followed the section above. [Watch this 20 minute video explaining Git, Github, and Github Desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE) (Simplified Git).
 Trust me, git repositories work perfectly with a lot of automation tools that will be covered later on. 
+
+---
+
+## Terraform
+
+You should definitely learn to build, change, and destroy infrastructure with Terraform. If you've experimented with bringing up virtual machines, you'll quickly realize how tedious the whole process can be, not to mention having to bring up a virtual network for your VM to live in.
+
+On their website, they have [free learning lessons] (https://learn.hashicorp.com/terraform). The cool thing is, once you learn Terraform with any infrastructure provider, whether it be AWS, Oracle Cloud, or Docker, the skills you learn will be easily transferrable to other infrastructure providers. Terraform is a tool for 'Infrastructure as Code', but please don't be intimidated, as once you get started with the tutorials, you'll realize no coding language experience is required. Here is a cool video that explains and compares Terraform and Ansible in just 15 minutes.
+
+---
+
+## Ansible
+
+Another tool in the world of 'Infrastructure as Code', but with a heavier focus on the configuration aspect of equipment. This is a [great video on real world automation with Ansible](https://www.youtube.com/watch?v=w9eCU4bGgjQ&t=445s). However, while I believe this is the nicest tutorial I've seen, it covers the CLI version of Ansible, and it's important to note that there is a graphical version of Ansible known as Ansible Tower. There are free versions of this graphical Ansible manager, such as AWX Tower or Oracle Automation Manager. I highly recommend using one of your Oracle Cloud VMs to deploy their version of this [Automation Manager using this tutorial](https://docs.oracle.com/en/operating-systems/oracle-linux/8/oracle-linux-automation-manager/awx-AboutOracleLinuxAutomationManagerandOracleLinuxAutomationEngine.html#awx-about.
