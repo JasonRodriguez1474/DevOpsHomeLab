@@ -89,3 +89,9 @@ On their website, they have [free learning lessons](https://learn.hashicorp.com/
 ## Ansible
 
 Another tool in the world of 'Infrastructure as Code', but with a heavier focus on the configuration aspect of equipment. This is a [great video on real world automation with Ansible](https://www.youtube.com/watch?v=w9eCU4bGgjQ&t=445s). However, while I believe this is the nicest tutorial I've seen, it covers the CLI version of Ansible, and it's important to note that there is a graphical version of Ansible known as Ansible Tower. There are free versions of this graphical Ansible manager, such as AWX Tower or Oracle Automation Manager. I highly recommend using one of your Oracle Cloud VMs to deploy their version of this [Automation Manager using this tutorial](https://docs.oracle.com/en/operating-systems/oracle-linux/8/oracle-linux-automation-manager/awx-AboutOracleLinuxAutomationManagerandOracleLinuxAutomationEngine.html#awx-about).
+
+---
+
+## Python, SQL, and Machine Learning
+
+Learning to [automate with Python](https://automatetheboringstuff.com/) is the most relevant if your goal is to land a DevOps role. However, [this website](https://www.kaggle.com/learn) also includes free learning resources for SQL, Machine Learning, and data visualization which are great if you're possibly considering a data career.
